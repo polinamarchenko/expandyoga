@@ -10,7 +10,7 @@ const IndexPage = () => (
       <div className="CTA">
         <a
           className="primaryButton"
-          href="https://clients.mindbodyonline.com/ASP/main_shop.asp?studioid=500720&tg=&vt=&lvl=&stype=40&view=&trn=0&page=&catid=&prodid=100&date=9%2f3%2f2017&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&justloggedin=&nLgIn=&pMode=0&loc=1"
+          href="https://clients.mindbodyonline.com/classic/ws?studioid=500720&stype=-7&sView=week&sLoc=0&date=09/13/17&sSU=true"
           target="blank"
         >
           RESERVE A CLASS
